@@ -1,0 +1,253 @@
+Подготовка к распаковке …/2-libpcre2-32-0_10.34-7_amd64.deb …
+Распаковывается libpcre2-32-0:amd64 (10.34-7) …
+Выбор ранее не выбранного пакета fish.
+Подготовка к распаковке …/3-fish_3.1.0-1.2_amd64.deb …
+Распаковывается fish (3.1.0-1.2) …
+Выбор ранее не выбранного пакета javascript-common.
+Подготовка к распаковке …/4-javascript-common_11_all.deb …
+Распаковывается javascript-common (11) …
+Выбор ранее не выбранного пакета xsel.
+Подготовка к распаковке …/5-xsel_1.2.0+git9bfc13d.20180109-3_amd64.deb …
+Распаковывается xsel (1.2.0+git9bfc13d.20180109-3) …
+Настраивается пакет javascript-common (11) …
+apache2_invoke: Enable configuration javascript-common
+Настраивается пакет xsel (1.2.0+git9bfc13d.20180109-3) …
+Настраивается пакет libpcre2-32-0:amd64 (10.34-7) …
+Настраивается пакет libjs-jquery (3.3.1~dfsg-3) …
+Настраивается пакет fish-common (3.1.0-1.2) …
+Настраивается пакет fish (3.1.0-1.2) …
+Обрабатываются триггеры для man-db (2.9.1-1) …
+Обрабатываются триггеры для libc-bin (2.31-0ubuntu9.2) …
+ksantd@ksantdSERV:~/smb/shhiva/githab$ fish
+Welcome to fish, the friendly interactive shell
+Type `help` for instructions on how to use fish
+ksantd@ksantdSERV ~/s/s/githab> cd shhiva
+cd: The directory “shhiva” does not exist
+ksantd@ksantdSERV ~/s/s/githab [1]> cd ..
+ksantd@ksantdSERV ~/s/shhiva> cd githab
+ksantd@ksantdSERV ~/s/s/githab> cd 1.homework/
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> git status
+На ветке main
+Ваша ветка обновлена в соответствии с «origin/main».
+
+нечего коммитить, нет изменений в рабочем каталоге
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vin test 1.txt
+
+Команда «vin» не найдена, но есть 25 похожих.
+
+ksantd@ksantdSERV ~/s/s/g/1.homework (main) [127]> vim test 1.txt
+Файлов для редактирования: 2
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> ls -la
+итого 20
+drwxrwxr-x 3 ksantd ksantd 4096 июн  4 16:40 ./
+drwxrwxr-x 3 ksantd ksantd 4096 июн  3 22:24 ../
+drwxrwxr-x 8 ksantd ksantd 4096 июн  4 16:25 .git/
+-rw-rw-r-- 1 ksantd ksantd   12 июн  3 22:19 README.md
+-rw-rw-r-- 1 ksantd ksantd   40 июн  4 16:40 test
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vim test_1.txt
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+:D
+:v
+:D
+:D;
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vim test_1.txt
+Подготовка к распаковке …/2-libpcre2-32-0_10.34-7_amd64.deb …
+Распаковывается libpcre2-32-0:amd64 (10.34-7) …
+Выбор ранее не выбранного пакета fish.
+Подготовка к распаковке …/3-fish_3.1.0-1.2_amd64.deb …
+Распаковывается fish (3.1.0-1.2) …
+Выбор ранее не выбранного пакета javascript-common.
+Подготовка к распаковке …/4-javascript-common_11_all.deb …
+Распаковывается javascript-common (11) …
+Выбор ранее не выбранного пакета xsel.
+Подготовка к распаковке …/5-xsel_1.2.0+git9bfc13d.20180109-3_amd64.deb …
+Распаковывается xsel (1.2.0+git9bfc13d.20180109-3) …
+Настраивается пакет javascript-common (11) …
+apache2_invoke: Enable configuration javascript-common
+Настраивается пакет xsel (1.2.0+git9bfc13d.20180109-3) …
+Настраивается пакет libpcre2-32-0:amd64 (10.34-7) …
+Настраивается пакет libjs-jquery (3.3.1~dfsg-3) …
+Настраивается пакет fish-common (3.1.0-1.2) …
+Настраивается пакет fish (3.1.0-1.2) …
+Обрабатываются триггеры для man-db (2.9.1-1) …
+Обрабатываются триггеры для libc-bin (2.31-0ubuntu9.2) …
+ksantd@ksantdSERV:~/smb/shhiva/githab$ fish
+Welcome to fish, the friendly interactive shell
+Type `help` for instructions on how to use fish
+ksantd@ksantdSERV ~/s/s/githab> cd shhiva
+cd: The directory “shhiva” does not exist
+ksantd@ksantdSERV ~/s/s/githab [1]> cd ..
+ksantd@ksantdSERV ~/s/shhiva> cd githab
+ksantd@ksantdSERV ~/s/s/githab> cd 1.homework/
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> git status
+На ветке main
+Ваша ветка обновлена в соответствии с «origin/main».
+
+нечего коммитить, нет изменений в рабочем каталоге
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vin test 1.txt
+
+Команда «vin» не найдена, но есть 25 похожих.
+
+ksantd@ksantdSERV ~/s/s/g/1.homework (main) [127]> vim test 1.txt
+Файлов для редактирования: 2
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> ls -la
+итого 20
+drwxrwxr-x 3 ksantd ksantd 4096 июн  4 16:40 ./
+drwxrwxr-x 3 ksantd ksantd 4096 июн  3 22:24 ../
+drwxrwxr-x 8 ksantd ksantd 4096 июн  4 16:25 .git/
+-rw-rw-r-- 1 ksantd ksantd   12 июн  3 22:19 README.md
+-rw-rw-r-- 1 ksantd ksantd   40 июн  4 16:40 test
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vim test_1.txt
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+:D
+:v
+:D
+:D;
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vim test_1.txt
+Подготовка к распаковке …/2-libpcre2-32-0_10.34-7_amd64.deb …
+Распаковывается libpcre2-32-0:amd64 (10.34-7) …
+Выбор ранее не выбранного пакета fish.
+Подготовка к распаковке …/3-fish_3.1.0-1.2_amd64.deb …
+Распаковывается fish (3.1.0-1.2) …
+Выбор ранее не выбранного пакета javascript-common.
+Подготовка к распаковке …/4-javascript-common_11_all.deb …
+Распаковывается javascript-common (11) …
+Выбор ранее не выбранного пакета xsel.
+Подготовка к распаковке …/5-xsel_1.2.0+git9bfc13d.20180109-3_amd64.deb …
+Распаковывается xsel (1.2.0+git9bfc13d.20180109-3) …
+Настраивается пакет javascript-common (11) …
+apache2_invoke: Enable configuration javascript-common
+Настраивается пакет xsel (1.2.0+git9bfc13d.20180109-3) …
+Настраивается пакет libpcre2-32-0:amd64 (10.34-7) …
+Настраивается пакет libjs-jquery (3.3.1~dfsg-3) …
+Настраивается пакет fish-common (3.1.0-1.2) …
+Настраивается пакет fish (3.1.0-1.2) …
+Обрабатываются триггеры для man-db (2.9.1-1) …
+Обрабатываются триггеры для libc-bin (2.31-0ubuntu9.2) …
+ksantd@ksantdSERV:~/smb/shhiva/githab$ fish
+Welcome to fish, the friendly interactive shell
+Type `help` for instructions on how to use fish
+ksantd@ksantdSERV ~/s/s/githab> cd shhiva
+cd: The directory “shhiva” does not exist
+ksantd@ksantdSERV ~/s/s/githab [1]> cd ..
+ksantd@ksantdSERV ~/s/shhiva> cd githab
+ksantd@ksantdSERV ~/s/s/githab> cd 1.homework/
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> git status
+На ветке main
+Ваша ветка обновлена в соответствии с «origin/main».
+
+нечего коммитить, нет изменений в рабочем каталоге
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vin test 1.txt
+
+Команда «vin» не найдена, но есть 25 похожих.
+
+ksantd@ksantdSERV ~/s/s/g/1.homework (main) [127]> vim test 1.txt
+Файлов для редактирования: 2
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> ls -la
+итого 20
+drwxrwxr-x 3 ksantd ksantd 4096 июн  4 16:40 ./
+drwxrwxr-x 3 ksantd ksantd 4096 июн  3 22:24 ../
+drwxrwxr-x 8 ksantd ksantd 4096 июн  4 16:25 .git/
+-rw-rw-r-- 1 ksantd ksantd   12 июн  3 22:19 README.md
+-rw-rw-r-- 1 ksantd ksantd   40 июн  4 16:40 test
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vim test_1.txt
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+:D
+:v
+:D
+:D;
+ksantd@ksantdSERV ~/s/s/g/1.homework (main)> vim test_1.txt
+1) Посмотреть где я       pwd
+2) Создать папку      mkdir foldername
+3) Зайти в папку       cd foldername
+4) Создать 3 папки     mkdir foldername(через пробел)mkdir foldername mkdir foldername
+5) Зайти в любоую папку cd foldername
+6) Создать 5 файлов (3 txt, 2 json)   touch 1.txt 2.txt 3.txt
+                                      touch 4.json 5.json 6.json
+7) Создать 3 папки   mkdir foldername(через пробел)mkdir foldername mkdir foldername
+8. Вывести список содержимого папки   ls -la
+9) + Открыть любой txt файл    nano 2.txt
+10) + написать туда что-нибудь, любой текст. писала текст
+11) + сохранить и выйти. ctrl O + ctrlX
+12) Выйти из папки на уровень выше cd ..
+—
+13) переместить любые 2 файла, которые вы создали, в любую другую папку. mv имя файла,через пробел в какую папку
+14) скопировать любые 2 файла, которые вы создали, в любую другую папку. cp 1.txt 1.txt_clone
+15) Найти файл по имени find ~/ -iname "имя файла"(он находит путь, и потом find/полностью путь/(здесь он уже точно его нашел,затем)cd foldername
+16) просмотреть содержимое в реальном времени (команда grep) изучите как она работает. tail -f 2.txt | grep - i tail
+17) вывести несколько первых строк из текстового файла head 2.txt
+18) вывести несколько последних строк из текстового файла  tail 2.txt
+19) просмотреть содержимое длинного файла (команда less) изучите как она работает. less 2.txt
+20) вывести дату и время date
+=========
+
+Задание *
+1) Отправить http запрос на сервер.
+curl https://api.quarantine.country/api/v1/regions
+2) Написать скрипт который выполнит автоматически пункты 3, 4, 5, 6, 7, 8, 13
+скрипт
+#!/bin/bash
+
+cd 3
+mkdir home1 home2 home3
+cd home3
+touch test.txt tesst.txt tessst.txt
+touch test1.json test2.json
+mkdir home4 home5 home6
+ls -la
+mv test.txt ./home6
+mv tesst.txt ./home6
